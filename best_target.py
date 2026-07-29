@@ -1,1 +1,1 @@
-print("best score: 10")
+print("best score: 100")
