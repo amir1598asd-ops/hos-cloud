@@ -1,6 +1,7 @@
 {
-  "best_score": 100,
+  "best_score_this_run": 100,
+  "global_best": 100,
   "loops": 100,
-  "ts": 1785351099.2424476,
-  "total_runs": 1
+  "time": "2026-07-29 19:03",
+  "total_runs": 2
 }
