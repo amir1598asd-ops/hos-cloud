@@ -1,0 +1,11 @@
+#!/data/data/com.termux/files/usr/bin/bash
+cd ~/hos-cloud
+git pull
+echo "========== بهترین کد =========="
+cat best_target.py
+echo
+echo "========== وضعیت =========="
+cat memory.json
+echo
+echo "========== تاریخچه =========="
+cat history.json
